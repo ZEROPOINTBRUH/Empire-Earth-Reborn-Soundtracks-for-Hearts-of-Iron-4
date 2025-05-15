@@ -1,0 +1,50 @@
+music_station = "eereborn_station"
+        music = {
+            song = "Arthurian"
+            chance = { modifier = { factor = 3 } }
+        }
+
+        music = {
+            song = "Balance_of_power"
+            chance = { modifier = { factor = 4 } }
+        }
+
+        music = {
+            song = "Battle"
+            chance = { modifier = { factor = 3 } }
+        }
+
+        music = {
+            song = "Emnity"
+            chance = { modifier = { factor = 2 } }
+        }
+
+        music = {
+            song = "Fallen"
+            chance = { modifier = { factor = 3 } }
+        }
+
+        music = {
+            song = "Honor"
+            chance = { modifier = { factor = 3 } }
+        }
+
+        music = {
+            song = "Pawns"
+            chance = { modifier = { factor = 2 } }
+        }
+
+        music = {
+            song = "Rivers"
+            chance = { modifier = { factor = 3 } }
+        }
+
+        music = {
+            song = "Shadows"
+            chance = { modifier = { factor = 4 } }
+        }
+
+        music = {
+            song = "Siege"
+            chance = { modifier = { factor = 2 } }
+        }

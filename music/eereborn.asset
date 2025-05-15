@@ -1,0 +1,40 @@
+music = {
+    name = "Arthurian"
+    file = "Arthurian.ogg"
+}
+music = {
+    name = "Balance_of_power"
+    file = "Balance_of_power.ogg"
+}
+music = {
+    name = "Battle"
+    file = "Battle.ogg"
+}
+music = {
+    name = "Emnity"
+    file = "Emnity.ogg"
+}
+music = {
+    name = "Fallen"
+    file = "Fallen.ogg"
+}
+music = {
+    name = "Honor"
+    file = "Honor.ogg"
+}
+music = {
+    name = "Pawns"
+    file = "Pawns.ogg"
+}
+music = {
+    name = "Rivers"
+    file = "Rivers.ogg"
+}
+music = {
+    name = "Shadows"
+    file = "Shadows.ogg"
+}
+music = {
+    name = "Siege"
+    file = "Siege.ogg"
+}
